@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Vaibhav-mishra28
-- 🔭 I’m currently working on A Personal Portfolio Website
-- 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning Web Development using MERN stack
-- 💞️ I’m looking to collaborate on Open Source Contribution
-- 📫 How to reach me vms282004@gmail.com
-- 😄 Pronouns: He/Him
+👋 Hey, I'm Vaibhav
+
+Full-Stack MERN Developer
+Currently building an AI-driven learning assistant.
+
+🔥 Into: Web dev, AI, open-source
+
+🌱 Learning: Advanced MERN & AI workflows
+
+📬 Contact: vms282004@gmail.com
+
+😄 Pronouns: He/Him
 ____________________________________________________________________________________________________________________
 **Connect With Me:**
 
