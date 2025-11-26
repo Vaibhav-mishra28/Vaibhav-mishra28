@@ -1,15 +1,15 @@
-👋 Hey, I'm Vaibhav
+# 👋 Hey, I'm Vaibhav
 
-Full-Stack MERN Developer
-Currently building an AI-driven learning assistant.
-
-🔥 Into: Web dev, AI, open-source
-
-🌱 Learning: Advanced MERN & AI workflows
-
-📬 Contact: vms282004@gmail.com
-
-😄 Pronouns: He/Him
+   **Full-Stack MERN Developer**  <br>
+     Currently building an AI-driven learning assistant.
+  
+  🔥 Into: Web dev, AI, open-source
+  
+  🌱 Learning: Advanced MERN & AI workflows
+  
+  📬 Contact: vms282004@gmail.com
+  
+  😄 Pronouns: He/Him
 ____________________________________________________________________________________________________________________
 **Connect With Me:**
 
