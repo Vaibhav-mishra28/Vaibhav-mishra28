@@ -47,10 +47,16 @@
 <!-- ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white) -->
 
 </p>
----
   
 ____________________________________________________________________________________________________________________
----
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-mishra28&show_icons=true&theme=radical&cache_seconds=3600" width="450" height="180" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-mishra28&layout=compact&theme=radical&cache_seconds=3600" width="450" height="180" />
+</p>
+
 
 ## 🌐 Find Me Online
 <p align="center">
